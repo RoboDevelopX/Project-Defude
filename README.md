@@ -54,9 +54,3 @@ Once the model is trained. We can give it a simple image and it will be able to 
 You can learn more about their amazing project on [github](https://github.com/mrharicot/monodepth).
 Their trained models give way better results than what we can so we are using that.
 The depth estimation code we have is a minimal stripped down version just to run the model.
-
-
-## The Team
-This was done as a final year project by [Haritha Paul](https://github.com/haritha1997), [Navin Mohan](https://github.com/navin-mohan), [Roshan V](https://github.com/ros-han) and me.
-
-Leave a star if you liked the project. :)
